@@ -269,7 +269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_CategoryHash: 0
   m_labelHash: 0
-  m_SpriteKey: -2.0289407e-14
+  m_SpriteKey: 4.0737386e-11
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1063,10 +1063,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1801572494}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aab4997cf47373a46880d4395b1a143f, type: 3}
+  m_Script: {fileID: 11500000, guid: 030960740b1a293448c28349edefb6e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weapon: {fileID: 344448553}
+  "\u6B66\u5668": {fileID: 344448553}
 --- !u!1 &1951324070
 GameObject:
   m_ObjectHideFlags: 0
@@ -1446,6 +1446,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 386791141387813222, guid: 92b988fba607b08408922bec1f6202ff, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 818139556541040428, guid: 92b988fba607b08408922bec1f6202ff, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.26289058
@@ -1501,7 +1505,11 @@ PrefabInstance:
     - target: {fileID: 1487284502117902370, guid: 92b988fba607b08408922bec1f6202ff, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 8074480348392310476, guid: 92b988fba607b08408922bec1f6202ff, type: 3}
+      objectReference: {fileID: -6649251808621677518, guid: 64f3db1267001b04682905fef522957f, type: 3}
+    - target: {fileID: 1487284502117902370, guid: 92b988fba607b08408922bec1f6202ff, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2157576900197752615, guid: 92b988fba607b08408922bec1f6202ff, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.99162424

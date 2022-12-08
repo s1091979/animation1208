@@ -13,20 +13,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Library:
-  - m_Name: New Category
-    m_Hash: -1887952825
+  - m_Name: "\u6B66\u5668"
+    m_Hash: 1187990528
     m_CategoryList: []
     m_OverrideEntries:
-    - m_Name: 01
-      m_Hash: -817814474
-      m_Sprite: {fileID: 8074480348392310476, guid: 92b988fba607b08408922bec1f6202ff, type: 3}
+    - m_Name: "\u68D2"
+      m_Hash: -922392510
+      m_Sprite: {fileID: -6649251808621677518, guid: 64f3db1267001b04682905fef522957f, type: 3}
       m_FromMain: 0
-      m_SpriteOverride: {fileID: 8074480348392310476, guid: 92b988fba607b08408922bec1f6202ff, type: 3}
-    - m_Name: 02
-      m_Hash: 1447589260
-      m_Sprite: {fileID: -6649251808621677518, guid: a3905e5eb5d5c994d9caace1f64fb020, type: 3}
+      m_SpriteOverride: {fileID: -6649251808621677518, guid: 64f3db1267001b04682905fef522957f, type: 3}
+    - m_Name: "\u528D"
+      m_Hash: 34423813
+      m_Sprite: {fileID: 8074480348392310476, guid: 0d81288048ff4b1409a39f2e9c6f32fc, type: 3}
       m_FromMain: 0
-      m_SpriteOverride: {fileID: -6649251808621677518, guid: a3905e5eb5d5c994d9caace1f64fb020, type: 3}
+      m_SpriteOverride: {fileID: 8074480348392310476, guid: 0d81288048ff4b1409a39f2e9c6f32fc, type: 3}
     m_FromMain: 0
     m_EntryOverrideCount: 2
   m_PrimaryLibraryGUID: 
